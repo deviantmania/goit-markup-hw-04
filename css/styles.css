@@ -173,6 +173,8 @@ span.header-logo-web{
     color: var(--pressed-state-color);
 }
 .hero{
+    margin-right: auto;
+    margin-left: auto;
     background-image: linear-gradient( rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
     background-color: var(--title-text-color);
     background-position: center;
