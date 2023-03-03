@@ -168,12 +168,10 @@ span.header-logo-web{
 .header-contacts .link:focus{
     color: var(--pressed-state-color);
 }
-
 .button:focus,
 .button:hover{
     color: var(--pressed-state-color);
 }
-
 .hero{
     background-image: linear-gradient( rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
     background-color: var(--title-text-color);
